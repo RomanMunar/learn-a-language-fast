@@ -28,3 +28,24 @@ Future Language:
 - [Bash](#bash)
 - [Python](#python)
 
+## General Structure
+
+```bash
+./programmingLanguage               # Ex. go, javascript
+├── /exercises/                     # All code for the exercises
+│   ├── /basics/                    # Basic exercises Ex. sum, factor, num in list
+│       ├── /fibonacci/             # TODO: Should 01_exercise have their own directory or just a file
+│         ├── /fibonacci.ext/       # ext = filename extension, Ex. go,js,py
+│         ├── /fibonacci_test.ext/
+│   ├── /intermediate/              # Intermediate level exercises
+│       ├── /baseDecHexBinary/
+│         ├── /baseDecHexBinary.ext
+│         ├── /baseDecHexBinary_test.ext
+│   ├── /advanced/                  # Advanced level exercises
+│      ├── /A* Pathfinding/
+│         ├── /aStartPathfinding.ext
+│         ├── /aStartPathfinding_test.ext
+│   ├── README.md                   # List of exercises, code convention, tests description
+├── README.md                       # Brief description of the language, Pre-requisites and installation of dependencies
+
+```
