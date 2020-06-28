@@ -8,15 +8,7 @@
 // `fmt` package and print to standard out.
 // I wouldn't normally recommend this, but did
 // it here to make life easier for beginners.
-// let f = index % 3 == 0;
-// let b = index % 5 == 0;
-// if (f && b) result += "Fizz Buzz";
-// if (f) result += "Fizz ,";
-// if (b) result += "Buzz,";
-// result += index.toString();
-// if (index != n) {
-//   result += " ,";
-// }
+
 function fizzBuzz(n) {
   let result = "";
   for (let index = 1; index <= n + 1; index++) {
