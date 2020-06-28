@@ -7,6 +7,7 @@
 //
 
 import returnMe from "./exercises/basics/returnme.js";
-import findTwoThatSum from "./exercises/basics/findTwoThatSum.js";
+import fizzBuzz from "./exercises/basics/fizzBuzz.js";
 // console.log(returnMe(1, 2));
-console.log(findTwoThatSum([1, 3, 5, 4, 2], 9));
+// console.log(findTwoThatSum([1, 3, 5, 4, 2], 9));
+console.log(fizzBuzz(1));
