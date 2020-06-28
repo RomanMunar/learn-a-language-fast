@@ -1,5 +1,5 @@
 import assert from "assert";
-import fizzBuzz from "../basics/fizzBuzz.js";
+import fizzBuzz from "../intermediate/fizzBuzz.js";
 
 const Questionandanswers = [
   [1, "1"],
