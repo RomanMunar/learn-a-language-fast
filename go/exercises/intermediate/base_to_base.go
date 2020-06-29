@@ -1,4 +1,4 @@
-package base
+package intermediate
 
 // BaseToBase takes in a number, the base it is currently
 // in, and the base you want it to be converted to. It then

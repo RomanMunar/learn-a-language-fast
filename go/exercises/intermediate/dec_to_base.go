@@ -1,4 +1,4 @@
-package base
+package intermediate
 
 // DecToBase will return a string representing
 // the provided decimal number in the provided base.

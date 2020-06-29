@@ -1,4 +1,4 @@
-package base
+package intermediate
 
 // BaseToDec takes in a number and the base it is currently
 // in and returns the decimal equivalent as an integer.
