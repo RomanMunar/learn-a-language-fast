@@ -22,8 +22,8 @@ Note: _This is the current version of node_
 
 - [Windows](https://nodejs.org/dist/v14.4.0/node-v14.4.0-x64.msi)
   - Run the installer
-- [Mac](https://nodejs.org/dist/v14.4.0/node-v14.4.0.pkg)
 
+- [Mac](https://nodejs.org/dist/v14.4.0/node-v14.4.0.pkg)
   - `brew install node`
 
 - [Linux](https://nodejs.org/dist/v14.4.0/node-v14.4.0-linux-x64.tar.xz)
